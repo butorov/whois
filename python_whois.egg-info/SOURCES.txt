@@ -1,0 +1,10 @@
+setup.py
+python_whois.egg-info/PKG-INFO
+python_whois.egg-info/SOURCES.txt
+python_whois.egg-info/dependency_links.txt
+python_whois.egg-info/not-zip-safe
+python_whois.egg-info/top_level.txt
+test/test_parser.py
+whois/__init__.py
+whois/parser.py
+whois/whois.py
